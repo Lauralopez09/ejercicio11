@@ -1,0 +1,22 @@
+Modelo básico de datos para una plataforma comunitaria
+
+Entidad: Causa
+- Campos principales:
+  - id_causa 001
+  - nombre Recoleccion basuras
+  - descripcion En el párque principal nose a recogido la basura hace 5 dias
+  - fecha_creacion 1o de julio 2026
+- Propósito de la información:
+  Guardar las causas comunitarias que seran visibles en la plataforma
+
+  
+Entidad: Apoyo
+
+Campos principales:
+- id 001a
+- causa_id 001
+- usuario Pepito Perez
+- fecha 11 julio 2026
+
+Propósito:
+Registrar los apoyos que recibe cada causa para hacer seguimiento a la participación.

@@ -1,0 +1,11 @@
+Qué es el login en una aplicación.
+Por qué algunas rutas deben estar protegidas.
+Qué tipo de información no debería exponerse públicamente.
+
+El login o inicio de sesión es el proceso de autenticación que valida la identidad de un usuario 
+para permitirle acceder a una aplicación de forma personalizada. 
+Ciertas rutas deben estar protegidas para garantizar que solo las personas autorizadas visualicen 
+o modifiquen funciones críticas, evitando que usuarios anónimos o malintencionados alteren la plataforma.
+Bajo ninguna circunstancia debe exponerse públicamente información 
+sensible como contraseñas, datos bancarios,documentos de identidad o datos de contacto
+de los miembros de la comunidad, resguardando así la privacidad y la integridad de todo el sistema.
